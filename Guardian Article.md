@@ -1,15 +1,12 @@
----
-layout: post
-title: Hacking the Academy
----
-
-# {{ page.title }}
+# Hacking the Academy
 
 <p class="meta">18 October 2011 - Lincoln</p>
 
 <p class="meta">By Joss Winn and Mike Neary</p>
 
 A version of this with minor edits was first published in the [Guardian](http://www.guardian.co.uk/higher-education-network/2011/oct/18/hacking-academy-devxs-conference)
+
+----
 
 Did you notice anything strange about the ongoing 'phone hacking' scandal involving the News of the World? There are no hackers involved. This is the latest example of hacking's troubled history with the mainstream media, which confuses the "playful cleverness" of expert computer programmers with the malicious meddling of computer crackers and criminal journalists. With the repeated confusion of Hackers with Crackers and old Hacks, the rich and fruitful history of the true Hackers is diminished and a thriving intellectual culture focused on problem solving, self-directed learning and the free exchange of knowledge is undermined.
 
