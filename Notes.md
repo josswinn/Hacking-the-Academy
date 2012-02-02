@@ -1,5 +1,7 @@
 # Hacking and the Academy
 
+These are raw notes, often snippets from documents I'm reading. Assume everything is an unattributed quote from somewhere/someone else!
+
 ## Intro: Recent hacking and cracking
 * 20 years ago, Linux began as the work of a student. 5th October 1991. Called it a 'nice learning tool'. Hosted at Helsinki university, MIT, Germany?
 ## History: Hacking in the academy
@@ -7,6 +9,7 @@
 * 'Hacks' originally referred to "elaborate but harmless pranks" (Raymond, 2004, 44)
 * 1969: ARPANET joined up hackers from different universities, such as Stanford and Carnegie-Mellon. Origins of a shared (academic) culture. 
 * Took on the responsibility of running the early Internet and formed groups such as IETF. Not corporate types but grubby hippies. Later called 'geeks' or 'nerds'.
+* ARPANET hackers influenced by the academic 'publish or perish' imperative. Collaboration and sharing of source code. Idealism of 'networked community of minds'. cf. Cybernetic influence. Turner, 2006. (Raymond 2004, 45)
 * Stallman and Free Software Foundation (1980s). Led to a hacker consciousness and identity/ethic. MIT AI Lab as "hacker's paradise" (Moody, 2001, 15). 
 * X Windows (MIT) is example of commercial interests working with academic hackers. 
 * First web server (HTTP daemon) was created by Rob McCool at the University of Illinois and grew into Apache, which now serves 63% of all websites.
@@ -87,5 +90,12 @@
 * "Whereas hackers engage with technological determinations of their choice and in their own ways, programmers are told by their corporations which technologies to engage with, under the ultimate aim of generating profit for the corporation. There should be nothing surprising about this, as it is the basic bargain nearly all employees in all industries strike, but it also distinguishes the vast majority of programmers from hackers." (Jordan, 2008, 116)
 * Problem of technological determinism in universities. Educational software is uninspiring. Little 'learning' takes place in the 'Virtual Learning Environment'. 
 * "Hacking assumes both that technology determines society and society determines technology. The conceptual difficulty hacking poses is the simultaneous separation and merging of technology and society, in a context where each is held to be able to determine the other. It is this complexity that hacking has at its heart and which defines hacking." (JOrdan, 2008, 134).
+
+# Hacking as a craft
+* Teacher-(grad)student apprenticeship. 
+* Hackers as pedagogues. 
+* Workmanship of risk/certainty? Risk as it is human interpretive skill, certainty as it both has to build and can be subject to various tests. 
+* Software Engineering aims for workmanship of certainty but remains workmanship of risk in almost every instance. Software Craftsmanship is the workmanship of risk that is regulated. What place for diversity?
+* Compare software development with Potter, Blacksmith, Cobbler. In most cases, all are workmanship of risk to different degrees. 
 * 
 
